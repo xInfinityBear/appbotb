@@ -1,0 +1,1 @@
+worker: appbotb.js
